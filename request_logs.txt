@@ -1,0 +1,1295 @@
+Received request: POST /
+Response time: 0.9395439624786377
+Status code: 200
+Response time 0.9395439624786377 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0.9458041191101074
+Status code: 200
+Response time 0.9458041191101074 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0.9518389701843262
+Status code: 200
+Response time 0.9518389701843262 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0.939600944519043
+Status code: 200
+Response time 0.939600944519043 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0.9493129253387451
+Status code: 200
+Response time 0.9493129253387451 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0.9651150703430176
+Status code: 200
+Response time 0.9651150703430176 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0.9822750091552734
+Status code: 200
+Response time 0.9822750091552734 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0.9951238632202148
+Status code: 200
+Response time 0.9951238632202148 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.0441601276397705
+Status code: 200
+Response time 1.0441601276397705 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.064673662185669
+Status code: 200
+Response time 1.064673662185669 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.1247451305389404
+Status code: 200
+Response time 1.1247451305389404 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.1282761096954346
+Status code: 200
+Response time 1.1282761096954346 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.164525032043457
+Status code: 200
+Response time 1.164525032043457 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.1883389949798584
+Status code: 200
+Response time 1.1883389949798584 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.1986188888549805
+Status code: 200
+Response time 1.1986188888549805 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.2161829471588135
+Status code: 200
+Response time 1.2161829471588135 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.216892957687378
+Status code: 200
+Response time 1.216892957687378 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.2239420413970947
+Status code: 200
+Response time 1.2239420413970947 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.2374498844146729
+Status code: 200
+Response time 1.2374498844146729 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.2397689819335938
+Status code: 200
+Response time 1.2397689819335938 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.2731289863586426
+Status code: 200
+Response time 1.2731289863586426 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.2514591217041016
+Status code: 200
+Response time 1.2514591217041016 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.2505011558532715
+Status code: 200
+Response time 1.2505011558532715 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.2550239562988281
+Status code: 200
+Response time 1.2550239562988281 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.241877794265747
+Status code: 200
+Response time 1.241877794265747 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.2711360454559326
+Status code: 200
+Response time 1.2711360454559326 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.260326862335205
+Status code: 200
+Response time 1.260326862335205 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.237718105316162
+Status code: 200
+Response time 1.237718105316162 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.2560539245605469
+Status code: 200
+Response time 1.2560539245605469 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.26118803024292
+Status code: 200
+Response time 1.26118803024292 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.2757880687713623
+Status code: 200
+Response time 1.2757880687713623 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.3109180927276611
+Status code: 200
+Response time 1.3109180927276611 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.2792880535125732
+Status code: 200
+Response time 1.2792880535125732 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.3259079456329346
+Status code: 200
+Response time 1.3259079456329346 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.3461740016937256
+Status code: 200
+Response time 1.3461740016937256 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.3285362720489502
+Status code: 200
+Response time 1.3285362720489502 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.3825061321258545
+Status code: 200
+Response time 1.3825061321258545 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.3518521785736084
+Status code: 200
+Response time 1.3518521785736084 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.3622939586639404
+Status code: 200
+Response time 1.3622939586639404 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.3597290515899658
+Status code: 200
+Response time 1.3597290515899658 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.3779780864715576
+Status code: 200
+Response time 1.3779780864715576 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.3950049877166748
+Status code: 200
+Response time 1.3950049877166748 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.3820197582244873
+Status code: 200
+Response time 1.3820197582244873 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.459641695022583
+Status code: 200
+Response time 1.459641695022583 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.466271162033081
+Status code: 200
+Response time 1.466271162033081 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.476564884185791
+Status code: 200
+Response time 1.476564884185791 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.560434103012085
+Status code: 200
+Response time 1.560434103012085 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.565181016921997
+Status code: 200
+Response time 1.565181016921997 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.6088252067565918
+Status code: 200
+Response time 1.6088252067565918 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.6323227882385254
+Status code: 200
+Response time 1.6323227882385254 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.7269139289855957
+Status code: 200
+Response time 1.7269139289855957 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.737009048461914
+Status code: 200
+Response time 1.737009048461914 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.7464420795440674
+Status code: 200
+Response time 1.7464420795440674 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.7615611553192139
+Status code: 200
+Response time 1.7615611553192139 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.8101160526275635
+Status code: 200
+Response time 1.8101160526275635 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.9001719951629639
+Status code: 200
+Response time 1.9001719951629639 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.915863037109375
+Status code: 200
+Response time 1.915863037109375 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.9121508598327637
+Status code: 200
+Response time 1.9121508598327637 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.9202580451965332
+Status code: 200
+Response time 1.9202580451965332 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.948927879333496
+Status code: 200
+Response time 1.948927879333496 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.9813871383666992
+Status code: 200
+Response time 1.9813871383666992 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.9719202518463135
+Status code: 200
+Response time 1.9719202518463135 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.0022051334381104
+Status code: 200
+Response time 2.0022051334381104 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.03275203704834
+Status code: 200
+Response time 2.03275203704834 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.024797201156616
+Status code: 200
+Response time 2.024797201156616 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.054032802581787
+Status code: 200
+Response time 2.054032802581787 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.017303943634033
+Status code: 200
+Response time 2.017303943634033 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.0422592163085938
+Status code: 200
+Response time 2.0422592163085938 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.061286211013794
+Status code: 200
+Response time 2.061286211013794 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.056698799133301
+Status code: 200
+Response time 2.056698799133301 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.1081981658935547
+Status code: 200
+Response time 2.1081981658935547 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.083773136138916
+Status code: 200
+Response time 2.083773136138916 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.1033549308776855
+Status code: 200
+Response time 2.1033549308776855 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.1586320400238037
+Status code: 200
+Response time 2.1586320400238037 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.156134843826294
+Status code: 200
+Response time 2.156134843826294 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.1556780338287354
+Status code: 200
+Response time 2.1556780338287354 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.176361083984375
+Status code: 200
+Response time 2.176361083984375 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.214066982269287
+Status code: 200
+Response time 2.214066982269287 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.1949257850646973
+Status code: 200
+Response time 2.1949257850646973 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.2610838413238525
+Status code: 200
+Response time 2.2610838413238525 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.250886917114258
+Status code: 200
+Response time 2.250886917114258 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.283447027206421
+Status code: 200
+Response time 2.283447027206421 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.318190813064575
+Status code: 200
+Response time 2.318190813064575 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.3427016735076904
+Status code: 200
+Response time 2.3427016735076904 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.324753999710083
+Status code: 200
+Response time 2.324753999710083 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.391258955001831
+Status code: 200
+Alert! Response time 2.391258955001831 ms is significantly higher than baseline median 1.1940205097198486 ms - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.334188938140869
+Status code: 200
+Response time 2.334188938140869 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.3585777282714844
+Status code: 200
+Response time 2.3585777282714844 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.3709897994995117
+Status code: 200
+Response time 2.3709897994995117 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.387554883956909
+Status code: 200
+Response time 2.387554883956909 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.384000062942505
+Status code: 200
+Response time 2.384000062942505 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0
+Status code: 504
+Response time 0 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.6347131729125977
+Status code: 200
+Response time 1.6347131729125977 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.0492961406707764
+Status code: 200
+Response time 1.0492961406707764 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.1586277484893799
+Status code: 200
+Response time 1.1586277484893799 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.0492420196533203
+Status code: 200
+Response time 1.0492420196533203 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.1499300003051758
+Status code: 200
+Response time 1.1499300003051758 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.147834062576294
+Status code: 200
+Response time 1.147834062576294 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.0434460639953613
+Status code: 200
+Response time 1.0434460639953613 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.0306620597839355
+Status code: 200
+Response time 1.0306620597839355 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.1093997955322266
+Status code: 200
+Response time 1.1093997955322266 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.1628808975219727
+Status code: 200
+Response time 1.1628808975219727 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.0994250774383545
+Status code: 200
+Response time 1.0994250774383545 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.162755012512207
+Status code: 200
+Response time 1.162755012512207 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.0213627815246582
+Status code: 200
+Response time 1.0213627815246582 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.0390119552612305
+Status code: 200
+Response time 1.0390119552612305 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.0253870487213135
+Status code: 200
+Response time 1.0253870487213135 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.6720738410949707
+Status code: 200
+Response time 1.6720738410949707 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.4019858837127686
+Status code: 200
+Response time 1.4019858837127686 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.36179780960083
+Status code: 200
+Response time 1.36179780960083 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.144193172454834
+Status code: 200
+Response time 1.144193172454834 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.1847059726715088
+Status code: 200
+Response time 1.1847059726715088 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.150892972946167
+Status code: 200
+Response time 1.150892972946167 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.0068018436431885
+Status code: 200
+Response time 1.0068018436431885 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 0.5278141498565674
+Status code: 200
+Response time 0.5278141498565674 ms is within acceptable range. - KE ChatGPT service
+-------------------------------
+Received request: POST /
+Response time: 0.5335140228271484
+Status code: 200
+Response time 0.5335140228271484 ms is within acceptable range. - KE ChatGPT service
+-------------------------------
+Received request: POST /
+Response time: 0.36379313468933105
+Status code: 200
+Response time 0.36379313468933105 ms is within acceptable range. - KE ChatGPT service
+-------------------------------
+Received request: POST /
+Response time: 1.126209020614624
+Status code: 200
+Response time 1.126209020614624 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.0591790676116943
+Status code: 200
+Response time 1.0591790676116943 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 0.3569960594177246
+Status code: 200
+Response time 0.3569960594177246 ms is within acceptable range. - KE ChatGPT service
+-------------------------------
+Received request: POST /
+Response time: 0.36353111267089844
+Status code: 200
+Response time 0.36353111267089844 ms is within acceptable range. - KE ChatGPT service
+-------------------------------
+Received request: POST /
+Response time: 1.0222811698913574
+Status code: 200
+Response time 1.0222811698913574 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.054581880569458
+Status code: 200
+Response time 1.054581880569458 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.0404958724975586
+Status code: 200
+Response time 1.0404958724975586 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.246762990951538
+Status code: 200
+Response time 1.246762990951538 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.0201280117034912
+Status code: 200
+Response time 1.0201280117034912 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.0259981155395508
+Status code: 200
+Response time 1.0259981155395508 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.156977891921997
+Status code: 200
+Response time 1.156977891921997 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.1137299537658691
+Status code: 200
+Response time 1.1137299537658691 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.1728849411010742
+Status code: 200
+Response time 1.1728849411010742 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.0226590633392334
+Status code: 200
+Response time 1.0226590633392334 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.0441648960113525
+Status code: 200
+Response time 1.0441648960113525 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.048015832901001
+Status code: 200
+Response time 1.048015832901001 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 0.5830941200256348
+Status code: 200
+Response time 0.5830941200256348 ms is within acceptable range. - KE ChatGPT service
+-------------------------------
+Received request: POST /
+Response time: 0.523777961730957
+Status code: 200
+Response time 0.523777961730957 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.1116540431976318
+Status code: 200
+Response time 1.1116540431976318 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.0294010639190674
+Status code: 200
+Response time 1.0294010639190674 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.0576262474060059
+Status code: 200
+Response time 1.0576262474060059 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.0534472465515137
+Status code: 200
+Response time 1.0534472465515137 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.2641010284423828
+Status code: 200
+Response time 1.2641010284423828 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 0.4338870048522949
+Status code: 200
+Response time 0.4338870048522949 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 0.5805130004882812
+Status code: 200
+Response time 0.5805130004882812 ms is within acceptable range. - KE ChatGPT service
+-------------------------------
+Received request: POST /
+Response time: 1.9827520847320557
+Status code: 200
+Response time 1.9827520847320557 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.810971736907959
+Status code: 200
+Response time 2.810971736907959 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 0.5819010734558105
+Status code: 200
+Response time 0.5819010734558105 ms is within acceptable range. - KE ChatGPT service
+-------------------------------
+Received request: POST /
+Response time: 1.6780850887298584
+Status code: 200
+Response time 1.6780850887298584 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0.5862820148468018
+Status code: 200
+Response time 0.5862820148468018 ms is within acceptable range. - KE ChatGPT service
+-------------------------------
+Received request: POST /
+Response time: 1.756765365600586
+Status code: 200
+Response time 1.756765365600586 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0.5392739772796631
+Status code: 200
+Response time 0.5392739772796631 ms is within acceptable range. - KE ChatGPT service
+-------------------------------
+Received request: POST /
+Response time: 1.4054360389709473
+Status code: 200
+Response time 1.4054360389709473 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 2.427513837814331
+Status code: 200
+Response time 2.427513837814331 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 0.4028768539428711
+Status code: 200
+Response time 0.4028768539428711 ms is within acceptable range. - KE ChatGPT service
+-------------------------------
+Received request: POST /
+Response time: 1.1301958560943604
+Status code: 200
+Response time 1.1301958560943604 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 1.320892095565796
+Status code: 200
+Response time 1.320892095565796 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 0.48870229721069336
+Status code: 200
+Response time 0.48870229721069336 ms is within acceptable range. - KE ChatGPT service
+-------------------------------
+Received request: POST /
+Response time: 1.6776511669158936
+Status code: 200
+Response time 1.6776511669158936 ms is within acceptable range. - KE service
+-------------------------------
+Received request: POST /
+Response time: 1.9267737865447998
+Status code: 200
+Response time 1.9267737865447998 ms is within acceptable range. - KE gemini service
+-------------------------------
+Received request: POST /
+Response time: 0.6978261470794678
+Status code: 200
+Response time 0.6978261470794678 ms is within acceptable range. - KE ChatGPT service
+-------------------------------

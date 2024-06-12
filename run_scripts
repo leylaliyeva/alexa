@@ -1,0 +1,9 @@
+python3 AlexaApp.py & python3 KEApp.py & python3 STTApp.py & python3 TTSApp.py
+
+python3 AlexaProxy.py & python3 KEProxy.py & python3 STTProxy.py & python3 TTSProxy.py
+
+kill -9 $(lsof -ti:5000,5001,5002,5003)
+kill -9 $(lsof -ti:3005,5005)
+
+
+bash AlexaApp.sh
